@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/timofeylysenko/Downloads/zadanie/LegacyApp.Test/LegacyApp.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/timofeylysenko/Downloads/zadanie/LegacyApp.Test/LegacyApp.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp.Test/LegacyApp.Test.csproj",
+        "projectName": "LegacyApp.Test",
+        "projectPath": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp.Test/LegacyApp.Test.csproj",
+        "packagesPath": "/Users/timofeylysenko/.nuget/packages/",
+        "outputPath": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofeylysenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
+                "projectPath": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/LegacyApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/LegacyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "projectName": "LegacyApp",
+        "projectPath": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/LegacyApp.csproj",
+        "packagesPath": "/Users/timofeylysenko/.nuget/packages/",
+        "outputPath": "/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofeylysenko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

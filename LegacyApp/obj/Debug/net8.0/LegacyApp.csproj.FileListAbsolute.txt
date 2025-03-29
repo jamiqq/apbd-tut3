@@ -1,0 +1,11 @@
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/timofeylysenko/Downloads/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
